@@ -1,0 +1,5 @@
+:root > * {
+  --md-primary-fg-color: #0D4C17; /* Your custom primary color */
+  --md-primary-fg-color--light: #0D4C17; /* Lighter shade for primary color */
+  --md-primary-fg-color--dark: #0D4C17; /* Darker shade for primary color */
+}
